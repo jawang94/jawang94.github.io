@@ -1,9 +1,11 @@
 ---
 layout: default
-img: 40-1-1.png
-# category: Experiences
-title: IT: Cloud Systems and Solutions Student
+img: 40-1-2.png
+category: Experiences
+title: Member of Award Winning MLH Team
 description: |
 ---
 
-Placeholder
+- Active member of an award winning Major League Hacking team, traveling nationwide to compete in various Hackathons, meanwhile developing meaningful applications for the greater good.
+
+- Integrating advanced modern technologies to create impactful applications based on the mission theme.

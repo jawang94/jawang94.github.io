@@ -2,8 +2,12 @@
 layout: default
 img: logo.png
 category: Experiences
-title: Web Development
+title: Full Stack Web Development Graduate
 description: |
 ---
 
-Placeholder
+- Studied at Coding Dojo, Bellevue where I mastered the fundamental building blocks of web and software development, graduating with strong functional ability in Python, Java, and JavaScript development.
+
+- Collaborated with fellow cohortmates and developed a food decision application which pulls from Yelp API and integrates Google Maps to provide a customized and intelligent response to all your dining needs.
+
+- Implemented Python - Django, Java - Spring Boot, and JavaScript - MEAN to create an array of web applications for both startup and enterprise level needs.
