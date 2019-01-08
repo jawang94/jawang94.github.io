@@ -6,6 +6,8 @@ title: Member of Award Winning MLH Team
 description: |
 ---
 
-- Active member of an award winning Major League Hacking team, traveling nationwide to compete in various Hackathons, meanwhile developing meaningful applications for the greater good.
+- Active member of an award winning Major League Hacking team, traveling nationwide to compete in various Hackathons, inspiring innovation and cultivating communities in the process.
 
-- Integrating advanced modern technologies to create impactful applications based on the mission theme.
+- Implementing advanced technologies and data metrics to create impactful applications in line with the mission prompt yet aiming to do so much more.
+
+- Collecting positive feedback by sharing our work with our amazing peers to foster a healthy development environment and spurring growth in everyone involved.
