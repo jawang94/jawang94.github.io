@@ -2,7 +2,7 @@
 layout: default
 img: logo.png
 category: Experiences
-title: Full Stack Web Development Graduate
+title: Full Stack Web Development Honors Graduate
 description: |
 ---
 
