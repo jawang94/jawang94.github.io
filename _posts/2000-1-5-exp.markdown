@@ -2,7 +2,7 @@
 layout: default
 img: 40-1-1.png
 category: Experiences
-title: Information Technology: Cloud Computing and Solutions Student
+title: IT - Cloud Computing and Solutions Student
 description: |
 ---
 
