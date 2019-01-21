@@ -8,6 +8,6 @@ description: |
 
 - Studied at Coding Dojo, Bellevue where I mastered the fundamental building blocks of web and software development, graduating with Triple Black Belt honors.
 
-- Collaborated with fellow cohortmates and developed a food decision application which pulls from Yelp API and integrates Google Maps to provide a customized and intelligent response to all your dining needs.
+- Collaborated with fellow cohortmates to develop a variety applications from the ground up, making proper use of version control, modern technologies, and APIs.
 
-- Implemented Python - Django, Java - Spring Boot, and JavaScript - MEAN to create an array of web applications for both startup and enterprise level needs.
+- Implemented Python (Django), Java (Spring), and JavaScript (Angular/MEAN) to create an array of web applications for both startup and enterprise level needs.

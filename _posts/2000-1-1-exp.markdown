@@ -8,6 +8,6 @@ description: |
 
 - Active member of an award winning Major League Hacking team, traveling nationwide to compete in various Hackathons, inspiring innovation and cultivating communities in the process.
 
-- Implementing advanced technologies and data metrics to create impactful applications in line with the mission prompt yet aiming to do so much more.
+- Implementing advanced technologies and data metrics to create impactful, market viable applications in line with the prompt.
 
-- Growing as a developer through positive feedback from both respected judges and amazing peers alike.
+- Growing as both a developer and individual through constructive feedback from both respected judges and amazing peers.
