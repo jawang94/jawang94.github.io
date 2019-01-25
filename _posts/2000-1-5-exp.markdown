@@ -2,10 +2,10 @@
 layout: default
 img: 40-1-1.png
 category: Experiences
-title: IT - Cloud Computing and Solutions Student
+title: Software Engineering Student
 description: |
 ---
 
-- Currently enrolled in Purdue University's School of Business and Information Technology studying Cloud Computing and Solutions.
+- Currently enrolled at Penn State University, studying Software Engineering.
 
-- Applying current technical tools and methodologies to create various cloud solutions. Evaluating cloud computing trends, recognizing best practices, and analyzing and evaluating cloud providers and cloud solutions.
+- Implementing the principles and techniques of computer science, engineering, and mathematical analysis as a software engineer to empower computers with innovative applications to perform tasks smarter, faster, and better.
