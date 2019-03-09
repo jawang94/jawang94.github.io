@@ -6,7 +6,7 @@ title: Software Engineering Student
 description: |
 ---
 
-- Currently undergraduate Software Engineering at Penn State.
+- Undergraduate Software Engineering at Penn State.
 
 - Studying discrete mathematics, probability and statistics, and relevant topics in computer sciences and supporting disciplines for a comprehensive coverage of modern software and techniques.
 
