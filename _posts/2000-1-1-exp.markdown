@@ -6,8 +6,12 @@ title: Member of Award Winning MLH Team
 description: |
 ---
 
-- Active member of an award winning Major League Hacking team, traveling nationwide to compete in various Hackathons, inspiring innovation and cultivating communities in the process.
+- Member of two award winning Hackathon teams.
 
-- Implementing advanced technologies and data metrics to create impactful, market viable applications.
+- 1st Place: Disrupting the Credit Score Industry at DefHacks 2019 for designing a new universal, transparent, and distributed credit score system.
 
-- Making the world a better place with my fellow developers from around the globe.
+- 1st Place: Best Use of Here.com API at SacHacks 2018 for designing a car-share application that cultivates fan spirit while reducing traffic congestion, parking shortages, and CO2 emissions.
+
+- Implementing advanced technologies and data metrics to create impactful, market viable applications and solutions.
+
+- Traveling nationwide to compete, inspire innovation, and make the world a better place via software application.
