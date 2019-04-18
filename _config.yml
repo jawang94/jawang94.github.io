@@ -4,7 +4,7 @@
 
 url: http://jawang94.github.io/
 title: Jason W.
-email: wang.jason.010@gmail.com
+email: jason.wang@psu.edu
 author: Jason Wang
 description: > # "Jason Wang's Personal Page"
 
@@ -25,9 +25,9 @@ gems:
 # ----------------------- #
 
 social:
-  - icon: medium
-    title: blog
-    url: https://medium.com/@wang.jason.010
+  - icon: devpost
+    title: devpost
+    url: https://devpost.com/jawang94?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
   - icon: envelope-o
     title: email
     url: mailto:jason.wang@psu.edu
