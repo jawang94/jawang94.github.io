@@ -25,7 +25,7 @@ gems:
 # ----------------------- #
 
 social:
-  - icon: devpost
+  - icon: dev
     title: devpost
     url: https://devpost.com/jawang94?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
   - icon: envelope-o
