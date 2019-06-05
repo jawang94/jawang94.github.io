@@ -1,13 +1,13 @@
 ---
 layout: default
-img: 40-1-3.png
+img: 40-1-1.png
 category: Experiences
-title: Member of Two Award Winning MLH Teams
+title: Software Engineering Student
 description: |
 ---
 
-- 1st Place: Disrupting the Credit Score Industry at DefHacks 2019 for designing a new universal, transparent, and distributed credit score system.
+- Remote Software Engineering student at Penn State with the intent to pursue higher level research in the future.
 
-- 1st Place: Best Use of Here.com API at SacHacks 2018 for creating a car-share application that cultivates fan spirit while reducing traffic congestion.
+- Studying discrete mathematics, probability and statistics, and relevant topics in computer sciences and supporting disciplines for a comprehensive coverage of modern software and techniques.
 
-- Implementing advanced technologies and data metrics to create impactful, market viable applications and solutions.
+- Implementing the principles and techniques of computer science, engineering, and mathematical analysis as a software engineer to empower computers with innovative applications to perform tasks smarter, faster, and better.

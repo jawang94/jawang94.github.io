@@ -1,13 +1,13 @@
 ---
 layout: default
-img: logo.png
+img: 40-1-3.png
 category: Experiences
-title: Full Stack Web Development Honors Graduate
+title: Member of Two Award Winning MLH Teams
 description: |
 ---
 
-- Studied at Coding Dojo, Bellevue where I mastered the fundamental building blocks of web and software development, graduating with Triple Black Belt honors.
+- 1st Place: Disrupting the Credit Score Industry at DefHacks 2019 for designing a new universal, transparent, and distributed credit score system.
 
-- Collaborated with fellow cohortmates to develop a variety applications from the ground up, making proper use of version control, modern technologies, and APIs.
+- 1st Place: Best Use of Here.com API at SacHacks 2018 for creating a car-share application that cultivates fan spirit while reducing traffic congestion.
 
-- Implemented Python (Django), Java (Spring), and JavaScript (MEAN) to create an array of web applications for both startup and enterprise level needs.
+- Implementing advanced technologies and data metrics to create impactful, market viable applications and solutions.

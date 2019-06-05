@@ -1,13 +1,13 @@
 ---
 layout: default
-img: 40-1-1.png
+img: 40-1-4.png
 category: Experiences
-title: Software Engineering Student
+title: Software Engineer
 description: |
 ---
 
-- Undergraduate Software Engineering at Penn State.
+- Worked on various high visibility projects centered around Industrial IoT software for Industry 4.0 smart manufacturing
 
-- Studying discrete mathematics, probability and statistics, and relevant topics in computer sciences and supporting disciplines for a comprehensive coverage of modern software and techniques.
+- Resolved compatibility issues across multiple platforms, devices, and browsers including Web, Mobile, and legacy browsers
 
-- Implementing the principles and techniques of computer science, engineering, and mathematical analysis as a software engineer to empower computers with innovative applications to perform tasks smarter, faster, and better.
+- Established a company-wide best practices, code quality, and styling guide for writing optimal JavaScript code
