@@ -6,4 +6,4 @@ title: Software Engineer
 description: |
 ---
 
-- Powering the ecosystem of Smart Manufacturers, Smart Machines, & Smart Connected Fleets through enterprise level software solutions.
+<!-- - Powering the ecosystem of Smart Manufacturers, Smart Machines, & Smart Connected Fleets through enterprise level software solutions. -->
