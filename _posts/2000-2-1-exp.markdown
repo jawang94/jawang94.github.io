@@ -1,13 +1,13 @@
 ---
 layout: default
-img: logo.png
+img: 40-1-1.png
 category: Experiences
-title: Full Stack Web Development Honors Graduate
+title: Software Engineering Student
 description: |
 ---
 
-- Studied at Coding Dojo, Bellevue where I mastered the fundamental building blocks of web and software development, graduating with Triple Black Belt honors.
+- Remote Software Engineering student at Penn State with the intent to pursue higher level research in the future.
 
-- Collaborated with fellow cohortmates to develop a variety applications from the ground up, making proper use of version control, modern technologies, and APIs.
+- Studying discrete mathematics, probability and statistics, and relevant topics in computer sciences and supporting disciplines for a comprehensive coverage of modern software and techniques.
 
-- Implemented Python (Django), Java (Spring), and JavaScript (MEAN) to create an array of web applications for both startup and enterprise level needs.
+- Implementing the principles and techniques of computer science, engineering, and mathematical analysis as a software engineer to empower computers with innovative applications to perform tasks smarter, faster, and better.
