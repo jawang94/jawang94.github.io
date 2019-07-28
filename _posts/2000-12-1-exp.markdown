@@ -6,8 +6,8 @@ title: Full Stack Web Development Honors Graduate
 description: |
 ---
 
-- Studied at Coding Dojo, Bellevue where I mastered the fundamental building blocks of web and software development, graduating with Triple Black Belt honors.
+‣ Studied at Coding Dojo, Bellevue where I mastered the fundamental building blocks of web and software development, graduating with Triple Black Belt honors.
 
-- Collaborated with fellow cohortmates to develop a variety applications from the ground up, making proper use of version control, modern technologies, and APIs.
+‣ Collaborated with fellow cohortmates to develop a variety applications from the ground up, making proper use of version control, modern technologies, and APIs.
 
-- Implemented Python (Django), Java (Spring), and JavaScript (MEAN) to create an array of web applications for both startup and enterprise level needs.
+‣ Implemented Python (Django), Java (Spring), and JavaScript (MEAN) to create an array of web applications for both startup and enterprise level needs.

@@ -6,8 +6,8 @@ title: Software Engineer
 description: |
 ---
 
-- Worked on various high visibility projects centered around Industrial IoT software for Industry 4.0 smart manufacturing
+‣ Worked on various high visibility projects centered around Industrial IoT software for Industry 4.0 smart manufacturing
 
-- Resolved compatibility issues across multiple platforms, devices, and browsers including Web, Mobile, and legacy browsers
+‣ Resolved compatibility issues across multiple platforms, devices, and browsers including Web, Mobile, and legacy browsers
 
-- Established a company-wide best practices, code quality, and styling guide for writing optimal JavaScript code
+‣ Established a company-wide best practices, code quality, and styling guide for writing optimal JavaScript code

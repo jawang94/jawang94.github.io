@@ -6,8 +6,8 @@ title: Member of Two Award Winning MLH Teams
 description: |
 ---
 
-- 1st Place: Disrupting the Credit Score Industry at DefHacks 2019 for designing a new universal, transparent, and distributed credit score system.
+‣ 1st Place: Disrupting the Credit Score Industry at DefHacks 2019 for designing a new universal, transparent, and distributed credit score system.
 
-- 1st Place: Best Use of Here.com API at SacHacks 2018 for creating a car-share application that cultivates fan spirit while reducing traffic congestion.
+‣ 1st Place: Best Use of Here.com API at SacHacks 2018 for creating a car-share application that cultivates fan spirit while reducing traffic congestion.
 
-- Implementing advanced technologies and data metrics to create impactful, market viable applications and solutions.
+‣ Implementing advanced technologies and data metrics to create impactful, market viable applications and solutions.
