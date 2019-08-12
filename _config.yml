@@ -25,9 +25,9 @@ gems:
 # ----------------------- #
 
 social:
-  - icon: caret-square-o-right
-    title: devpost
-    url: https://devpost.com/jawang94?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
+  - icon: medium
+    title: medium
+    url: https://medium.com/@wjason
   - icon: envelope-o
     title: email
     url: mailto:jason.wang@psu.edu
