@@ -6,8 +6,8 @@ title: Software Engineer
 description: |
 ---
 
-‣ Software Development Engineer working within an agile development environment with other developers and product owners to scope, architect, develop and deliver world-class IoT software solutions
+‣ Software Engineer working within an agile development environment with other developers and product owners to scope, architect, develop and deliver world-class IoT software solutions
 
-‣ Participate in highly visible full-stack web and mobile development using various technologies such as React, PostgreSQL, Azure IoT Services, Azure Cloud, etc
+‣ Participate in highly visible full-stack web and mobile development using various technologies such as React, PostgreSQL, Microsoft Azure, and Kubernetes
 
 ‣ Design and implement highly scalable solutions and architectures using the most appropriate design patterns
