@@ -2,12 +2,12 @@
 layout: default
 img: 40-1-1.png
 category: Experiences
-title: Software Engineering Student
+title: Software Engineering at Penn State
 description: |
 ---
 
-‣ Remote Software Engineering student at Penn State with the intent to pursue higher level research in the future.
+‣ Studied Software Engineering at Penn State.
 
-‣ Studying discrete mathematics, probability and statistics, and relevant topics in computer sciences and supporting disciplines for a comprehensive coverage of modern software and techniques.
+‣ Studyied discrete mathematics, probability and statistics, and relevant topics in computer sciences and supporting disciplines for a comprehensive coverage of modern software and techniques.
 
-‣ Implementing the principles and techniques of computer science, engineering, and mathematical analysis as a software engineer to empower computers with innovative applications to perform tasks smarter, faster, and better.
+‣ Implemented the principles and techniques of computer science, engineering, and mathematical analysis as a software engineer to empower computers with innovative applications to perform tasks smarter, faster, and better.
