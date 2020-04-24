@@ -6,8 +6,10 @@ title: Software Engineer
 description: |
 ---
 
-‣ Software Engineer working within an agile development environment with other developers and product owners to scope, architect, develop and deliver world-class IoT software solutions
+‣ Led front-end development for Elevāt’s Maintenance, Service, and Parts platform with React.js
 
-‣ Participate in highly visible full-stack web and mobile development using various technologies such as React, PostgreSQL, Microsoft Azure, and Kubernetes
+‣ Owned multiple UI features including Gateway Provisioning, Command and Control, Role-Based Access Control, and Alerting features
 
-‣ Design and implement highly scalable solutions and architectures using the most appropriate design patterns
+‣ Implemented back-end APIs for exporting IoT machine data to CSV using Golang
+
+‣ Maintained high code review standards in all UI components for readability, functionality, and efficiency
