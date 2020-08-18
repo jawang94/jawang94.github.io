@@ -2,7 +2,7 @@
 layout: default
 img: 40-1-6.png
 category: Experiences
-title: Founder, CEO, and Lead Engineer
+title: Founder, CEO
 description: |
 ---
 
