@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 img: logo.png
 category: Experiences
@@ -10,4 +10,4 @@ description: |
 
 ‣ Obtained deep knowledge of the internet and modern software (e.g. addressing, compiling, transpiling, browser engines, operating systems, and distribution pipelines)
 
-‣ Implemented Python (Django), Java (Spring), and JavaScript (MEAN) to develop an array of software solutions for both startup and enterprise level applications.
+‣ Implemented Python (Django), Java (Spring), and JavaScript (MEAN) to develop an array of software solutions for both startup and enterprise level applications. -->

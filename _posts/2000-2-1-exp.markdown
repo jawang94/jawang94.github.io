@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 img: 40-1-1.png
 category: Experiences
@@ -10,4 +10,4 @@ description: |
 
 ‣ Studyied discrete mathematics, probability and statistics, and relevant topics in computer sciences and supporting disciplines for a comprehensive coverage of modern software and techniques.
 
-‣ Implemented the principles and techniques of computer science, engineering, and mathematical analysis as a software engineer to empower computers with innovative applications to perform tasks smarter, faster, and better.
+‣ Implemented the principles and techniques of computer science, engineering, and mathematical analysis as a software engineer to empower computers with innovative applications to perform tasks smarter, faster, and better. -->
