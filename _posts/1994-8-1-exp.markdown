@@ -1,12 +1,12 @@
 ---
 layout: default
-img: 40-1-6.png
+img: 40-1-7.png
 category: Experiences
-title: Co-founder, CEO
+title: Co-founder, CEO, and Chief Engineer
 description: |
 ---
 
-‣ Founder, CEO, and Lead Engineer of Guidelyte, a pre-product startup whose mission is to create a world where chasing your dreams is exciting, not terrifying.
+‣ Founder, CEO, and Chief Engineer of Guidelyte, a startup whose mission is to create a world where chasing your dreams is exciting, not terrifying.
 
 ‣ Our vision is to aggregate the world's professional data in a centralized location and build the tools that disseminate it to the masses.
 
