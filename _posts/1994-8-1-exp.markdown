@@ -2,7 +2,7 @@
 layout: default
 img: 40-1-7.png
 category: Experiences
-title: Co-founder, CEO, and Chief Engineer
+title: Co-founder, CEO
 description: |
 ---
 
