@@ -39,3 +39,6 @@ social:
   - icon: file-pdf-o
     title: resume
     url: https://jasonw.tech/rsc/CurrentResume.pdf
+  - icon: window-maximum
+    title: guidelyte
+    url: https://guidelyte.com
