@@ -13,30 +13,25 @@
 
 <!-- InstaFeed -->
 <script type="text/javascript">
-	// var loadButton = document.getElementById('more_link');
-    if(typeof window.orientation !== 'undefined'){
-      var feed = new Instafeed({
-          clientId: '6c21179fc59541629449060aa5f941ed',
-          get: 'user',
-          userId: 233623744,
-          resolution: 'standard_resolution',
-          accessToken: InstagramToken,
-          sortBy:'most-recent',
-          limit: 6,
-
-      });
-    }else{
-      var feed = new Instafeed({
-          clientId: '6c21179fc59541629449060aa5f941ed',
-          get: 'user',
-          userId: 233623744,
-          resolution: 'standard_resolution',
-          accessToken: InstagramToken,
-          sortBy:'most-recent',
-          limit: 15,
-      });
-    }
-    feed.run();
+  if(typeof window.orientation !== 'undefined'){
+    var feed = new Instafeed({
+      accessToken: InstagramToken,
+      sortBy:'most-recent',
+      limit: 6,
+      transform: function(item) {
+        var d = new Date(item.timestamp);
+        item.date = [d.getDate(), d.getMonth(), d.getYear()].join('/');
+        return item;
+      }
+    });
+  }else{
+    var feed = new Instafeed({
+      accessToken: InstagramToken,
+      sortBy:'most-recent',
+      limit: 15,
+    });
+  }
+  feed.run();
 </script>
 
 
