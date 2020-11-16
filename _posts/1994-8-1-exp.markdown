@@ -10,4 +10,4 @@ description: |
 
 ‣ Our vision is to aggregate the world's professional data in a centralized location and build the tools that disseminate it to the masses.
 
-‣.My time is split between learning about our users, myself, and my team, in order to create a beautiful product experience that actually solves people’s problems.
+‣ My time is split between learning about our users, myself, and my team, in order to create a beautiful product experience that actually solves people’s problems.
